@@ -12,5 +12,5 @@ ghcnpy.find_station("Asheville")
 
 # Testing Search Capabilities
 print("\nTESTING PULL CAPABILITIES")
-outfile=ghcnpy.get_data_station("USW00003812")
+outfile=ghcnpy.get_data_station("USW00024233")
 print(outfile," has been downloaded")
